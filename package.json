@@ -1,0 +1,19 @@
+{
+  "name": "systemtemplate",
+  "version": "1.0.0",
+  "description": "Basic framework setup for any node project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afkim14/SystemTemplate.git"
+  },
+  "author": "Andres Fernando Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afkim14/SystemTemplate/issues"
+  },
+  "homepage": "https://github.com/afkim14/SystemTemplate#readme"
+}
