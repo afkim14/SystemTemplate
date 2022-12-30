@@ -19,7 +19,7 @@
   "homepage": "https://github.com/afkim14/SystemTemplate#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "mocha-junit-reporter": "^1.23.0"
   },
   "dependencies": {
